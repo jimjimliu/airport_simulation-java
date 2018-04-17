@@ -15,7 +15,8 @@ for (;;) {
     The aeroplane is launched when it becomes full.
     Wait for random time 500..2000ms /* traveling in the air */
 }
-Passenger:
+
+### Passenger:
 for(;;) {
     /* Makes some money to afford another flight. Note the ratio
     between work and leisure. */
